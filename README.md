@@ -52,6 +52,18 @@ Navigate to Karen Smith’s ticket titled “Entire mobile online banking is dow
 
 
 <p>
-First, log in as Jane Doe (jane.doe) through osTicket's Agent portal at http://localhost/osTicket/scp/login.php. You should see the tickets that were created by users.
+As the agent responding to our hypothetical ticket scenario, Jane Doe writes the following reply: "Coordinating with the Sys Admins team to restore mobile banking services." Leave the Ticket Status as Open and click Post Reply.
+</p>
+<br />
+
+
+<p>
+Continuing our hypothetical scenario, the System Engineering Department has resolved the critical mobile banking issue. Return to Karen’s ticket titled “Entire mobile online banking is down” and provide the following update: "Jerry from Sys Engineering identified and fixed a failed load balancer. Mobile banking services should now be restored." Change the Ticket Status to Resolved and click on Post Reply.
+</p>
+<br />
+
+
+<p>
+When you return to the Open Tickets section, you'll notice that Karen's message has disappeared, now listed in the Closed Folder.
 </p>
 <br />
