@@ -44,7 +44,7 @@ First, log in as Jane Doe (jane.doe) through osTicket's Agent portal at http://l
 </p>
 <br />
 
-![image](https://github.com/jamstylr/ticket-lifecycle/assets/159660523/77b5d848-c081-4841-88af-73480296b1b1)
+
 <p>
 Navigate to Karen Smith’s ticket titled “Entire mobile online banking is down”. Due to the severity of the issue, set the Priority to Emergency and add “Business Impacting Event” to the notes. Adjust the SLA Plan to SEV-A and include “Business Impacting, Critical Incident” in the notes. Change the Department to System Administrators and add “Sys Admins responsible for mobile banking infrastructure” to the notes. Finally, assign this ticket to Jane Doe.
 </p>
